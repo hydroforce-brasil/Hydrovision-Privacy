@@ -22,8 +22,6 @@ Esta política se aplica ao uso do App em dispositivos Android. Caso você acess
 
 ## 3. Quais dados coletamos
 
-> Preencha apenas o que for aplicável ao seu App. Remova o que não usar.
-
 ### 3.1. Dados fornecidos por você
 
 * **Cadastro/Conta:** nome, e-mail, telefone.
