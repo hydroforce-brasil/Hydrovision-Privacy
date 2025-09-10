@@ -111,7 +111,7 @@ Se houver transferência de dados para outros países, aplicaremos salvaguardas 
 
 ## 10. Alterações desta política
 
-Podemos atualizar esta política para refletir mudanças no App, em requisitos legais ou regulatórios. A versão vigente estará sempre disponível em **\[URL\_DA\_POLÍTICA]** e indicará a data de vigência. Mudanças relevantes poderão ser comunicadas pelo App ou por e‑mail.
+Podemos atualizar esta política para refletir mudanças no App, em requisitos legais ou regulatórios. A versão vigente estará sempre disponível em [**\[URL\_DA\_POLÍTICA]**](https://github.com/hydroforce-brasil/Hydrovision-) e indicará a data de vigência. Mudanças relevantes poderão ser comunicadas pelo App ou por e‑mail.
 
 ---
 
