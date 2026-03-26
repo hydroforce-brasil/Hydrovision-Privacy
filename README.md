@@ -132,7 +132,3 @@ Em caso de dúvidas, solicitações ou exercício de direitos relacionados a est
 
 **Hydroforce**
 **E-mail:** [contato@hydroforce.com.br](mailto:contato@hydroforce.com.br)
-
----
-
-Obs.: no seu texto original, isso está como **Política de Privacidade**, não como **Termos de Uso**. Se você quiser, o próximo passo ideal é eu separar isso em dois documentos distintos: **Termos de Uso** e **Política de Privacidade**.
