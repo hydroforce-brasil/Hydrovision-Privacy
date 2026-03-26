@@ -1,122 +1,138 @@
-# Política de Privacidade de Hydrovision
+# Política de Privacidade da Hydrovision
 
-**Vigente a partir de:** 10 de Setembro de 2025
+**Vigente a partir de:** 26 de março de 2026
 
-Bem-vindo(a)! Esta Política de Privacidade descreve como o aplicativo Hydrovision ("**Hydrovision**") coleta, utiliza, compartilha e protege dados pessoais. Ela foi elaborada para atender às exigências do **Google Play** e da **Lei Geral de Proteção de Dados Pessoais (LGPD – Lei nº 13.709/2018)**.
-
----
+Bem-vindo(a)! Esta Política de Privacidade descreve como o aplicativo **Hydrovision** coleta, utiliza, compartilha e protege dados pessoais. Ela foi elaborada em conformidade com a **Lei Geral de Proteção de Dados Pessoais (LGPD – Lei nº 13.709/2018)** e com os requisitos aplicáveis de distribuição do app.
 
 ## 1. Quem somos
 
-**Controlador**: Hydroforce
-
-**CNPJ/CPF (se aplicável):** 53.090.573/0001-10
-
----
+**Controlador:** Hydroforce
+**CNPJ:** 53.090.573/0001-10
 
 ## 2. Escopo desta política
 
-Esta política se aplica ao uso do App em dispositivos Android. Caso você acesse serviços de terceiros por meio do App (por exemplo, login social, mapas, pagamentos), as políticas desses terceiros também podem se aplicar.
-
----
+Esta política se aplica ao uso do aplicativo Hydrovision em dispositivos Android. Caso você utilize serviços de terceiros integrados ao aplicativo, como mapas, autenticação ou outros recursos externos, as políticas de privacidade desses terceiros também poderão se aplicar.
 
 ## 3. Quais dados coletamos
 
 ### 3.1. Dados fornecidos por você
 
-* **Cadastro/Conta:** nome, e-mail, telefone.
-* **Suporte/Contato:** mensagens e anexos enviados ao suporte.
+* **Cadastro e conta:** nome, e-mail e telefone.
+* **Suporte e contato:** mensagens, solicitações e anexos enviados ao suporte.
 
 ### 3.2. Dados coletados automaticamente
 
-* **Dados de dispositivo:** modelo, sistema operacional, versão do App, idioma, fuso horário.
-* **Logs e diagnóstico:** eventos de erro, travamentos (crash reports), desempenho.
-* **Dados de uso:** telas visitadas, botões clicados, tempo de uso (analytics).
+* **Dados do dispositivo:** modelo, sistema operacional, versão do aplicativo, idioma e fuso horário.
+* **Logs e diagnósticos:** registros de erro, falhas, travamentos e informações de desempenho.
+* **Dados de uso:** telas acessadas, interações realizadas, botões clicados e tempo de uso.
 
 ### 3.3. Permissões do dispositivo
 
-* **Câmera** (ex.: capturar fotos para leitura de QRCodes ou Cadastro de Vazamentos).
-* **Microfone** (ex.: gravação de áudio para utilização conjunta com a Câmera).
-* **Localização** (precisa/approx.) para exibição de localização de mapas.
-* **Armazenamento/Arquivos** (ler/gravar) para salvar os arquivos de configuração do aplicativo.
+O aplicativo poderá solicitar acesso aos seguintes recursos do dispositivo:
 
-> O App solicitará a permissão antes de acessar esses recursos e você pode gerenciá-las nas configurações do dispositivo.
+* **Câmera:** para captura de imagens, leitura de QR Codes e registro de ocorrências.
+* **Microfone:** para gravação de áudio vinculada a determinadas funcionalidades.
+* **Localização:** para exibição em mapas e, mediante seu consentimento, para coleta temporária de localização com a finalidade de gerar métricas de produtividade relacionadas ao uso do aplicativo e à execução das atividades operacionais.
+* **Armazenamento/Arquivos:** para leitura e gravação de arquivos necessários ao funcionamento do aplicativo.
 
-### 3.4. Cookies e tecnologias semelhantes
+O aplicativo solicitará sua autorização antes de acessar esses recursos, e você poderá gerenciar ou revogar essas permissões nas configurações do seu dispositivo.
 
-Se o App utilizar WebViews/serviços web, podemos empregar cookies, SDKs e identificadores (por ex. ID de publicidade) para as finalidades descritas nesta política.
+### 3.4. Coleta temporária de localização para métricas de produtividade
 
----
+Quando você autorizar, a Hydrovision poderá utilizar sua localização de forma **temporária**, limitada ao período necessário para gerar métricas de produtividade e apoiar funcionalidades operacionais do aplicativo. Essa coleta não será realizada sem seu consentimento e será tratada de forma proporcional e adequada à finalidade informada.
 
-## 4. Para que usamos seus dados (finalidades) e bases legais
+## 4. Para que usamos seus dados e bases legais
 
-> Adapte as finalidades ao seu App. Marque as bases legais correspondentes.
+Utilizamos seus dados pessoais para as seguintes finalidades:
 
-* **Fornecer e operar o App** (autenticação, funcionalidades principais).
-  Base legal: **execução de contrato**.
-* **Atendimento e suporte ao usuário**.
-  Base legal: **execução de contrato** e/ou **legítimo interesse**.
-* **Melhoria contínua, estatísticas e análise de uso** (analytics, crash reports).
-  Base legal: **legítimo interesse** (com medidas de minimização/opt‑out quando aplicável).
-* **Notificações (push), comunicações e marketing** (se houver).
-  Base legal: **consentimento** (quando exigido) e/ou **legítimo interesse**.
-* **Cumprimento de obrigações legais e regulatórias**.
-  Base legal: **cumprimento de obrigação legal**.
+* **Fornecer e operar o aplicativo**, incluindo autenticação e acesso às funcionalidades principais.
+  **Base legal:** execução de contrato.
 
-> Quando a base legal for **consentimento**, você poderá **retirá-lo** a qualquer momento nas configurações do App ou entrando em contato conosco.
+* **Atender solicitações e prestar suporte ao usuário.**
+  **Base legal:** execução de contrato e legítimo interesse.
 
----
+* **Melhorar o aplicativo, gerar estatísticas de uso, analisar desempenho e identificar falhas.**
+  **Base legal:** legítimo interesse.
+
+* **Utilizar a localização temporária do usuário para geração de métricas de produtividade**, sempre mediante consentimento prévio.
+  **Base legal:** consentimento.
+
+* **Enviar notificações relacionadas ao funcionamento do aplicativo e comunicações necessárias à experiência de uso.**
+  **Base legal:** legítimo interesse e, quando exigido por lei, consentimento.
+
+* **Cumprir obrigações legais e regulatórias.**
+  **Base legal:** cumprimento de obrigação legal.
+
+Quando o tratamento for baseado em consentimento, você poderá revogá-lo a qualquer momento nas configurações do aplicativo ou por meio dos nossos canais de contato.
 
 ## 5. Compartilhamento de dados
 
-Não vendemos dados pessoais. Podemos compartilhar com:
+A Hydrovision não vende dados pessoais. Seus dados poderão ser compartilhados apenas quando necessário com:
 
-* **Operadores/Processadores** que nos prestam serviços (ex.: hospedagem, analytics, crash reporting, envio de e‑mails).
-  Esses terceiros tratam dados segundo nossas instruções e acordo contratual.
-* **Parceiros** quando necessário para uma funcionalidade específica (ex.: mapas, pagamentos).
+* **Prestadores de serviço e operadores**, como serviços de hospedagem, análise de desempenho, monitoramento de falhas, envio de comunicações e infraestrutura tecnológica.
+* **Parceiros tecnológicos**, quando necessário para viabilizar funcionalidades específicas do aplicativo, como serviços de mapas.
 
-> • **Google Maps Platform** – [https://policies.google.com/privacy](https://policies.google.com/privacy)
+Esses terceiros tratam os dados de acordo com nossas instruções e com obrigações contratuais de confidencialidade e proteção de dados.
 
-Também poderemos compartilhar dados para cumprir a lei, ordens judiciais, proteger direitos, segurança e prevenir fraudes.
+Também poderemos compartilhar dados pessoais quando necessário para:
 
----
+* cumprir obrigações legais ou regulatórias;
+* atender determinações judiciais ou administrativas;
+* proteger direitos da Hydroforce;
+* prevenir fraudes e incidentes de segurança.
 
 ## 6. Armazenamento, retenção e segurança
 
-* **Local de armazenamento:** Brasil ou **provedores em nuvem** com proteção adequada.
-* **Retenção:** mantemos os dados pelo tempo necessário às finalidades acima ou conforme exigido por lei.
-* **Segurança:** adotamos medidas técnicas e organizacionais razoáveis (criptografia em trânsito/repouso quando aplicável, controle de acesso, monitoramento).
+Os dados poderão ser armazenados no Brasil ou em infraestrutura de nuvem contratada com níveis adequados de segurança.
 
----
+Mantemos os dados pessoais apenas pelo tempo necessário para cumprir as finalidades descritas nesta política e para atender obrigações legais, regulatórias e de auditoria.
 
-## 7. Seus direitos (LGPD)
+Adotamos medidas técnicas e organizacionais razoáveis para proteger os dados pessoais, incluindo controle de acesso, monitoramento, proteção em trânsito e outras salvaguardas compatíveis com a natureza das informações tratadas.
 
-Você tem, entre outros, o direito de: confirmar a existência de tratamento; acessar; corrigir dados incompletos, inexatos ou desatualizados; anonimizar, bloquear ou eliminar dados desnecessários ou tratados em desconformidade; portabilidade; informação sobre compartilhamentos; revogar consentimento; e reclamar à **ANPD**.
+No caso da **localização utilizada para métricas de produtividade**, o tratamento será limitado ao período necessário para essa finalidade, observando critérios de minimização e necessidade.
 
-**Como exercer:** envie sua solicitação para contato@hydroforce.com.br. Para sua segurança, poderemos solicitar informações adicionais para confirmar sua identidade.
+## 7. Seus direitos como titular de dados
 
----
+Nos termos da LGPD, você poderá solicitar:
+
+* confirmação da existência de tratamento;
+* acesso aos dados pessoais;
+* correção de dados incompletos, inexatos ou desatualizados;
+* anonimização, bloqueio ou eliminação de dados desnecessários ou tratados em desconformidade;
+* portabilidade, quando aplicável;
+* informações sobre compartilhamento de dados;
+* revogação do consentimento;
+* eliminação de dados tratados com base no consentimento, quando cabível;
+* petição perante a ANPD.
+
+Para exercer seus direitos, entre em contato pelo e-mail: **[contato@hydroforce.com.br](mailto:contato@hydroforce.com.br)**
+
+Para sua segurança, poderemos solicitar informações adicionais para confirmar sua identidade antes de atender à solicitação.
 
 ## 8. Crianças e adolescentes
 
- O App **não é direcionado** a crianças/adolescentes. Caso identifiquemos dados coletados indevidamente, eliminaremos conforme a lei.
-
----
+O aplicativo **não é direcionado a crianças e adolescentes**. Caso identifiquemos eventual coleta indevida de dados pessoais desse público, adotaremos as medidas cabíveis para exclusão ou regularização, conforme a legislação aplicável.
 
 ## 9. Transferências internacionais
 
-Se houver transferência de dados para outros países, aplicaremos salvaguardas adequadas (por ex., cláusulas contratuais padrão, certificações, medidas complementares) conforme a LGPD.
-
----
+Caso haja transferência internacional de dados pessoais, a Hydroforce adotará as medidas adequadas para assegurar a proteção dos dados, nos termos da LGPD, incluindo mecanismos contratuais e salvaguardas compatíveis com a legislação vigente.
 
 ## 10. Alterações desta política
 
-Podemos atualizar esta política para refletir mudanças no App, em requisitos legais ou regulatórios. A versão vigente estará sempre disponível em [**\[URL\_DA\_POLÍTICA]**](https://github.com/hydroforce-brasil/Hydrovision-) e indicará a data de vigência. Mudanças relevantes poderão ser comunicadas pelo App ou por e‑mail.
+Esta Política de Privacidade poderá ser atualizada periodicamente para refletir mudanças no aplicativo, em nossos processos de tratamento de dados ou em exigências legais e regulatórias.
 
----
+A versão vigente estará disponível em:
+**[https://github.com/hydroforce-brasil/Hydrovision-](https://github.com/hydroforce-brasil/Hydrovision-)**
+
+Recomendamos que você consulte esta política periodicamente.
 
 ## 11. Contato
 
-**E-mail:** contato@hydroforce.com.br
+Em caso de dúvidas, solicitações ou exercício de direitos relacionados a esta Política de Privacidade, entre em contato:
+
+**Hydroforce**
+**E-mail:** [contato@hydroforce.com.br](mailto:contato@hydroforce.com.br)
 
 ---
+
+Obs.: no seu texto original, isso está como **Política de Privacidade**, não como **Termos de Uso**. Se você quiser, o próximo passo ideal é eu separar isso em dois documentos distintos: **Termos de Uso** e **Política de Privacidade**.
