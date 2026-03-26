@@ -17,51 +17,59 @@ Esta política se aplica ao uso do aplicativo Hydrovision em dispositivos Androi
 
 ### 3.1. Dados fornecidos por você
 
-* **Cadastro e conta:** nome, e-mail e telefone.
-* **Suporte e contato:** mensagens, solicitações e anexos enviados ao suporte.
+Podemos coletar e armazenar os seguintes dados pessoais fornecidos por você no cadastro e uso do aplicativo:
+
+- nome;
+- sobrenome;
+- nome de usuário;
+- e-mail;
+- CPF;
+- senha, armazenada de forma criptografada;
+- telefone, quando aplicável;
+- mensagens, solicitações e anexos enviados ao suporte.
 
 ### 3.2. Dados coletados automaticamente
-
-* **Dados do dispositivo:** modelo, sistema operacional, versão do aplicativo, idioma e fuso horário.
-* **Logs e diagnósticos:** registros de erro, falhas, travamentos e informações de desempenho.
-* **Dados de uso:** telas acessadas, interações realizadas, botões clicados e tempo de uso.
-
+- Dados do dispositivo: modelo, sistema operacional, versão do aplicativo, idioma e fuso horário.
+- Logs e diagnósticos: registros de erro, falhas, travamentos e informações de desempenho.
+- Dados de uso: telas acessadas, interações realizadas, botões clicados e tempo de uso.
+- Dados de localização, quando autorizados pelo usuário, para funcionalidades operacionais, exibição em mapas e métricas de produtividade.
+- Registros operacionais de campo, como fotos, vídeos e áudios capturados no contexto de uso do aplicativo.
 ### 3.3. Permissões do dispositivo
 
 O aplicativo poderá solicitar acesso aos seguintes recursos do dispositivo:
 
-* **Câmera:** para captura de imagens, leitura de QR Codes e registro de ocorrências.
-* **Microfone:** para gravação de áudio vinculada a determinadas funcionalidades.
-* **Localização:** para exibição em mapas e, mediante seu consentimento, para coleta temporária de localização com a finalidade de gerar métricas de produtividade relacionadas ao uso do aplicativo e à execução das atividades operacionais.
-* **Armazenamento/Arquivos:** para leitura e gravação de arquivos necessários ao funcionamento do aplicativo.
+- Câmera: para capturar fotos e vídeos dos vazamentos encontrados durante a operação de campo.
+- Microfone: para captar áudio associado aos vídeos e registros realizados durante a operação de campo, inclusive no contexto de documentação de vazamentos.
+- Localização: para exibição em mapas e, mediante seu consentimento, para coleta temporária de localização com a finalidade de gerar métricas de produtividade e apoiar funcionalidades operacionais.
+- Notificações: para envio de notificações push relacionadas ao funcionamento do aplicativo, atividades operacionais, atualizações, lembretes e avisos importantes.
+- Armazenamento/Arquivos: para leitura e gravação de arquivos necessários ao funcionamento do aplicativo, incluindo mídias e arquivos de configuração.
 
-O aplicativo solicitará sua autorização antes de acessar esses recursos, e você poderá gerenciar ou revogar essas permissões nas configurações do seu dispositivo.
+O aplicativo solicitará sua autorização antes de acessar esses recursos, quando exigido, e você poderá gerenciar ou revogar essas permissões nas configurações do seu dispositivo.
 
-### 3.4. Coleta temporária de localização para métricas de produtividade
+### 3.4. Dados pessoais e dados pessoais sensíveis
 
-Quando você autorizar, a Hydrovision poderá utilizar sua localização de forma **temporária**, limitada ao período necessário para gerar métricas de produtividade e apoiar funcionalidades operacionais do aplicativo. Essa coleta não será realizada sem seu consentimento e será tratada de forma proporcional e adequada à finalidade informada.
+Nos termos da LGPD, os dados acima, como nome, sobrenome, nome de usuário, e-mail, CPF, senha criptografada, telefone e localização, são tratados como dados pessoais.
 
-## 4. Para que usamos seus dados e bases legais
+O aplicativo não coleta, como regra, dados pessoais sensíveis, assim entendidos pela LGPD como dados sobre origem racial ou étnica, convicção religiosa, opinião política, filiação sindical, dados referentes à saúde ou à vida sexual, dados genéticos ou biométricos, quando vinculados a uma pessoa natural. Caso futuramente alguma funcionalidade venha a exigir esse tipo de tratamento, isso será informado ao usuário de forma específica, com a respectiva base legal aplicável.
+
+### 4. Para que usamos seus dados e bases legais
 
 Utilizamos seus dados pessoais para as seguintes finalidades:
 
-* **Fornecer e operar o aplicativo**, incluindo autenticação e acesso às funcionalidades principais.
-  **Base legal:** execução de contrato.
-
-* **Atender solicitações e prestar suporte ao usuário.**
-  **Base legal:** execução de contrato e legítimo interesse.
-
-* **Melhorar o aplicativo, gerar estatísticas de uso, analisar desempenho e identificar falhas.**
-  **Base legal:** legítimo interesse.
-
-* **Utilizar a localização temporária do usuário para geração de métricas de produtividade**, sempre mediante consentimento prévio.
-  **Base legal:** consentimento.
-
-* **Enviar notificações relacionadas ao funcionamento do aplicativo e comunicações necessárias à experiência de uso.**
-  **Base legal:** legítimo interesse e, quando exigido por lei, consentimento.
-
-* **Cumprir obrigações legais e regulatórias.**
-  **Base legal:** cumprimento de obrigação legal.
+- Fornecer e operar o aplicativo, incluindo cadastro, autenticação e acesso às funcionalidades principais.
+- Base legal: execução de contrato.
+- Registrar, documentar e acompanhar vazamentos identificados em operação de campo, inclusive por meio de fotos, vídeos, áudios e localização, quando aplicável.
+- Base legal: execução de contrato e legítimo interesse.
+- Atender solicitações e prestar suporte ao usuário.
+- Base legal: execução de contrato e legítimo interesse.
+- Melhorar o aplicativo, gerar estatísticas de uso, analisar desempenho e identificar falhas.
+- Base legal: legítimo interesse.
+- Utilizar a localização temporária do usuário para geração de métricas de produtividade, sempre mediante consentimento prévio, específico e informado.
+- Base legal: consentimento.
+- Enviar notificações push relacionadas ao funcionamento do aplicativo, atividades operacionais, atualizações e avisos importantes.
+- Base legal: legítimo interesse e, quando exigido por lei, consentimento.
+- Cumprir obrigações legais e regulatórias.
+- Base legal: cumprimento de obrigação legal.
 
 Quando o tratamento for baseado em consentimento, você poderá revogá-lo a qualquer momento nas configurações do aplicativo ou por meio dos nossos canais de contato.
 
@@ -89,7 +97,9 @@ Mantemos os dados pessoais apenas pelo tempo necessário para cumprir as finalid
 
 Adotamos medidas técnicas e organizacionais razoáveis para proteger os dados pessoais, incluindo controle de acesso, monitoramento, proteção em trânsito e outras salvaguardas compatíveis com a natureza das informações tratadas.
 
-No caso da **localização utilizada para métricas de produtividade**, o tratamento será limitado ao período necessário para essa finalidade, observando critérios de minimização e necessidade.
+As senhas dos usuários são armazenadas de forma criptografada, com o objetivo de reduzir riscos de acesso não autorizado.
+
+No caso da localização utilizada para métricas de produtividade, o tratamento será limitado ao período necessário para essa finalidade, observando os princípios da necessidade, adequação e minimização.
 
 ## 7. Seus direitos como titular de dados
 
@@ -122,7 +132,7 @@ Caso haja transferência internacional de dados pessoais, a Hydroforce adotará 
 Esta Política de Privacidade poderá ser atualizada periodicamente para refletir mudanças no aplicativo, em nossos processos de tratamento de dados ou em exigências legais e regulatórias.
 
 A versão vigente estará disponível em:
-**[https://github.com/hydroforce-brasil/Hydrovision-](https://github.com/hydroforce-brasil/Hydrovision-)**
+**[https://github.com/hydroforce-brasil/Hydrovision-Privacy](https://github.com/hydroforce-brasil/Hydrovision-Privacy)**
 
 Recomendamos que você consulte esta política periodicamente.
 
